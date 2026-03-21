@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
