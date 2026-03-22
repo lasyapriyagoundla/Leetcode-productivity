@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0326-power-of-three) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0001-two-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
