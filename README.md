@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
