@@ -57,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0283-move-zeroes) |
+| [3794-reverse-string-prefix](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
