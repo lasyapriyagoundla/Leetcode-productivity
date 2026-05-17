@@ -66,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3794-reverse-string-prefix](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3798-largest-even-number) |
 <!---LeetCode Topics End-->
