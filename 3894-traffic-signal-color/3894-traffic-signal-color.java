@@ -8,7 +8,7 @@ class Solution {
         {
             return "Orange";
         }
-        else if(t>30 && t<=90)
+        else if(t>30 && t<91)
         { 
             return "Red";
         }
