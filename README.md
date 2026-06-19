@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0258-add-digits) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0075-sort-colors) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
