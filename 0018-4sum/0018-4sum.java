@@ -2,7 +2,7 @@ class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         int n=nums.length;
         Arrays.sort(nums);
-        Set<List<Integer>>ans=new HashSet<>();
+        List<List<Integer>>ans=new ArrayList<>();
         for(int i=0;i<n-3;i++)
         {
             if(i>0 && nums[i]==nums[i-1])
@@ -39,6 +39,6 @@ class Solution {
 
         }
 
- return new ArrayList<>(ans);
+ return ans;
     }
 }
