@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0073-set-matrix-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,4 +120,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
