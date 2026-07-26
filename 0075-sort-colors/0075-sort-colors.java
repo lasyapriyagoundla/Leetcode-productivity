@@ -4,12 +4,13 @@ class Solution {
         int l=0,m=0,h=n-1;
         while(m<=h)
         {
+
             if(nums[m]==0)
             {
                 nums[m]=nums[l];
                 nums[l]=0;
-                m++;
                 l++;
+                m++;
             }
             else if(nums[m]==1)
             {
@@ -17,9 +18,11 @@ class Solution {
             }
             else
             {
-                nums[m]=nums[h];
-                nums[h]=2;
-                h--;
+            
+             nums[m]=nums[h];
+             nums[h]=2;
+             h--;
+
             }
         }
     }
