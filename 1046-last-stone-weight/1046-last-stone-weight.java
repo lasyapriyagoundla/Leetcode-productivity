@@ -3,7 +3,7 @@ class Solution {
         PriorityQueue<Integer> pq=new PriorityQueue<>(Collections.reverseOrder());
         for(int n:stones)
         {
-            pq.add(n);
+            pq.offer(n);
         }
         while(pq.size()>1)
         {
@@ -11,7 +11,7 @@ class Solution {
             int y=pq.poll();
             if(x!=y)
             {
-                pq.add(Math.abs(y-x));
+                pq.offer(Math.abs(y-x));
             }
 
         }
