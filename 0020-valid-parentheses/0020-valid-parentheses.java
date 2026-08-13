@@ -17,15 +17,12 @@ class Solution {
                 {
                     return false;
                 }
-                char t=st.peek();
-           if((ch=='}' & t=='{') || (ch==']' && t=='[') || (ch==')' && t=='('))
+                char t=st.pop();
+           if((ch=='}' & t!='{') || (ch==']' && t!='[') || (ch==')' && t!='('))
                 {
-                    st.pop();
+                    return false;
                 }
-            else
-            {
-                return false;
-            }
+          
             }
            
         }
