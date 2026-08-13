@@ -8,7 +8,7 @@ class Solution {
      
             if(ch=='(' || ch=='{' || ch=='[') 
             {
-                st.add(ch);
+                st.push(ch);
             }
             else 
 
