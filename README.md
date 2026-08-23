@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2104-sum-of-subarray-ranges](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,8 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0020-valid-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
