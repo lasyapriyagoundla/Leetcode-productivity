@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0704-binary-search) |
+| [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2104-sum-of-subarray-ranges) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
 ## Quickselect
 |  |
 | ------- |
@@ -178,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
