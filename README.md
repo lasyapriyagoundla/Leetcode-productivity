@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [3794-reverse-string-prefix](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3798-largest-even-number) |
 ## Sorting
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2104-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
