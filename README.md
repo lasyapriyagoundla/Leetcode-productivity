@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2104-sum-of-subarray-ranges) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2799-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
