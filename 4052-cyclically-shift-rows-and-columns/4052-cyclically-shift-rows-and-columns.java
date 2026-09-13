@@ -10,17 +10,17 @@ class Solution {
                 
             }
         }
-        
+         int [][] c=new int[n][n];
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<n;j++)
             {
                 int row=(i-co[j]+n)%n;
-               grid[row][j]=r[i][j];
+                c[row][j]=r[i][j];
                 
             }
         }
-        return grid;
+        return c;
          
         
     }
