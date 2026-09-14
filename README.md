@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [3794-reverse-string-prefix](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3798-largest-even-number) |
