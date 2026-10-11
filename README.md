@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0225-implement-stack-using-queues) |
 | [2104-sum-of-subarray-ranges](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
@@ -198,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1248-count-number-of-nice-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2799-count-complete-subarrays-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
