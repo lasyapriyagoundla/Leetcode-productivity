@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0326-power-of-three) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
@@ -81,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0204-count-primes) |
 | [2843-count-symmetric-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2843-count-symmetric-integers) |
 ## Two Pointers
 |  |
@@ -207,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0225-implement-stack-using-queues) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
