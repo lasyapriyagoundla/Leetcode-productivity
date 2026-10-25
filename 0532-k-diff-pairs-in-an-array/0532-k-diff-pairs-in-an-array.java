@@ -3,18 +3,18 @@ class Solution {
        int d=Math.abs(k);
        int c=0;
        HashSet<Integer> s=new HashSet<>();
-       HashSet<String> st=new HashSet<>();
+       HashSet<Integer> st=new HashSet<>();
        for(int x:nums)
        {
         int d1=x-d;
         int d2=x+d;
         if(s.contains(d1))
         {
-            st.add((d1)+","+x);
+            st.add(d1);
         }
         if(s.contains(d2))
         {
-            st.add(x+","+(d2));
+            st.add(x);
         }
         s.add(x);
        } 
