@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0498-diagonal-traverse) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1248-count-number-of-nice-subarrays) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0240-search-a-2d-matrix-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
