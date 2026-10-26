@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0240-search-a-2d-matrix-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0611-valid-triangle-number) |
 ## Stack
 |  |
 | ------- |
