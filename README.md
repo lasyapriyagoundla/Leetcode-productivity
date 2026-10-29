@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1248-count-number-of-nice-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Design
