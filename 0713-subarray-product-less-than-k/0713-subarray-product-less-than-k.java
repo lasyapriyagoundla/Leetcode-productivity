@@ -9,7 +9,7 @@ class Solution {
        for(r=0;r<nums.length;r++)
        {
            p=p*nums[r];
-           while(p>=k )
+           while(l<=r && p>=k )
            {
               p=p/nums[l];
               l++;
