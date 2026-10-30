@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0062-unique-paths) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0326-power-of-three) |
@@ -257,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
