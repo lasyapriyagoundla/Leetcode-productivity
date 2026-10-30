@@ -188,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -260,5 +262,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
