@@ -19,10 +19,7 @@ class Solution {
                 j++;
 
             }
-            else
-            {
-                i++;
-            }
+            
         }
         return ans;
     }
