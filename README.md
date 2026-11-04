@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0326-power-of-three) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0023-merge-k-sorted-lists) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/lasyapriyagoundla/Leetcode-productivity/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
